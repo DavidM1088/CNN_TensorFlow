@@ -1,0 +1,351 @@
+afador
+affenhuahua
+affenpinscher
+afghan-hound 1
+airedale-terrier
+akbash
+akita
+akita-pit
+alaskan-klee-kai
+alaskan-malamute 1
+american-bulldog
+american-english-coonhound
+american-eskimo-dog
+american-foxhound
+american-leopard-hound
+american-pit-bull-terrier 1
+american-pugabull
+american-staffordshire-terrier
+american-water-spaniel
+anatolian-shepherd-dog
+appenzeller-sennenhunde
+auggie
+aussiedoodle
+aussiepom
+australian-cattle-dog 1
+australian-kelpie
+australian-retriever
+australian-shepherd
+australian-shepherd-husky
+australian-shepherd-lab-mix
+australian-shepherd-pit-bull-mix
+australian-terrier
+azawakh
+barbet
+basenji
+bassador
+basset-fauve-de-bretagne
+basset-hound 1
+basset-retriever 1
+bavarian-mountain-scent-hound
+beabull
+beagle 1
+beaglier
+bearded-collie
+bedlington-terrier
+belgian-malinois
+belgian-sheepdog
+belgian-tervuren
+berger-picard
+bernedoodle
+bernese-mountain-dog 1
+bichon-frise
+biewer-terrier
+black-and-tan-coonhound
+black-mouth-cur
+black-russian-terrier
+bloodhound 1
+blue-lacy
+bluetick-coonhound
+bocker
+boerboel
+boglen-terrier
+bolognese
+borador
+border-collie 1
+border-sheepdog
+border-terrier 1
+bordoodle
+borzoi
+boshih
+bossie
+boston-boxer
+boston-terrier
+bouvier-des-flandres
+boxador
+boxer 1
+boxerdoodle
+boxmatian
+boxweiler
+boykin-spaniel
+bracco-italiano
+braque-du-bourbonnais
+briard
+brittany
+broholmer
+brussels-griffon
+bugg
+bull-pei
+bull-terrier 1
+bullador
+bullboxer-pit
+bulldog
+bullmastiff
+bullmatian
+cairn-terrier
+canaan-dog
+cane-corso
+cardigan-welsh-corgi
+catahoula-bulldog
+catahoula-leopard-dog
+caucasian-shepherd-dog
+cav-a-jack
+cavachon
+cavador
+cavalier-king-charles-spaniel
+cavapoo
+cesky-terrier
+chabrador
+cheagle
+chesapeake-bay-retriever
+chi-chi
+chi-poo
+chigi
+chihuahua 1
+chilier
+chinese-crested
+chinese-shar-pei
+chinook
+chion
+chipin
+chiweenie
+chorkie
+chow-chow 1
+chow-shepherd
+chug
+chusky
+cirneco-delletna
+clumber-spaniel
+cockalier
+cockapoo
+cocker-spaniel
+collie
+corgi-inu
+corgidor
+corman-shepherd
+coton-de-tulear
+curly-coated-retriever
+dachsador
+dachshund 1
+dalmatian 1
+dandie-dinmont-terrier
+daniff
+deutscher-wachtelhund
+doberdor
+doberman-pinscher 1
+docker
+dogo-argentino
+dogue-de-bordeaux
+dorgi
+dorkie
+doxiepoo
+doxle
+drentsche-patrijshond
+drever
+dutch-shepherd
+english-cocker-spaniel 1
+english-foxhound
+english-setter
+english-springer-spaniel
+english-toy-spaniel
+entlebucher-mountain-dog
+estrela-mountain-dog
+eurasier
+field-spaniel
+finnish-lapphund
+finnish-spitz
+flat-coated-retriever
+fox-terrier 1
+french-bulldog
+french-spaniel
+frenchton
+frengle
+german-pinscher
+german-shepherd-dog 1
+german-shepherd-pit-bull
+german-sheprador
+german-shorthaired-pointer
+german-spitz
+german-wirehaired-pointer
+giant-schnauzer
+glen-of-imaal-terrier
+goberian
+goldador
+golden-cocker-retriever
+golden-mountain-dog
+golden-retriever
+golden-retriever-corgi
+golden-shepherd
+goldendoodle
+gollie
+gordon-setter
+great-dane
+great-pyrenees
+greater-swiss-mountain-dog
+greyador
+greyhound 1
+hamiltonstovare
+hanoverian-scenthound
+harrier
+havanese
+hokkaido
+horgi
+huskita
+huskydoodle
+ibizan-hound
+icelandic-sheepdog
+irish-red-and-white-setter
+irish-setter 1
+irish-terrier
+irish-water-spaniel
+irish-wolfhound
+italian-greyhound
+jack-a-poo
+jack-chi
+jack-russell-terrier
+japanese-chin
+japanese-spitz
+jindo
+karelian-bear-dog
+keeshond
+kerry-blue-terrier
+komondor
+kooikerhondje
+kuvasz
+kyi-leo
+lab-pointer
+labernese
+labmaraner
+labrabull
+labradane
+labradoodle
+labrador-retriever 1
+labrastaff
+labsky
+lagotto-romagnolo
+lakeland-terrier
+lancashire-heeler
+leonberger
+lhasa-apso
+lhasapoo
+lowchen
+maltese 1
+maltese-shih-tzu
+maltipoo
+manchester-terrier
+mastador
+mastiff 1
+miniature-pinscher
+miniature-schnauzer
+morkie
+mudi
+mutt
+neapolitan-mastiff
+newfoundland
+norfolk-terrier
+norwegian-buhund
+norwegian-elkhound
+norwegian-lundehund
+norwich-terrier
+nova-scotia-duck-tolling-retriever
+old-english-sheepdog
+otterhound
+papillon 1
+papipoo
+peekapoo
+pekingese
+pembroke-welsh-corgi
+petit-basset-griffon-vendeen
+pharaoh-hound
+pitsky
+plott
+pocket-beagle
+pointer
+polish-lowland-sheepdog
+pomapoo
+pomchi
+pomeagle
+pomeranian 1
+pomsky
+poochon
+poodle
+portuguese-podengo-pequeno
+portuguese-water-dog
+pug 1
+pugalier
+puggle
+puginese
+puli
+pyrenean-shepherd
+rat-terrier
+redbone-coonhound
+rhodesian-ridgeback
+rottador
+rottle
+rottweiler 1
+saint-berdoodle
+saint-bernard
+saluki
+samoyed 1
+samusky
+schipperke
+schnoodle
+scottish-deerhound
+scottish-terrier
+sealyham-terrier
+sheepadoodle
+shepsky
+shetland-sheepdog
+shiba-inu
+shichon
+shih-poo
+shih-tzu
+shiranian
+shollie
+shorkie
+siberian-husky 1
+silken-windhound
+silky-terrier
+skye-terrier
+sloughi
+small-munsterlander-pointer
+soft-coated-wheaten-terrier
+spanish-mastiff
+spinone-italiano
+springador
+stabyhoun
+staffordshire-bull-terrier
+standard-schnauzer
+sussex-spaniel
+swedish-vallhund
+terripoo
+texas-heeler
+tibetan-mastiff
+tibetan-spaniel
+tibetan-terrier
+toy-fox-terrier
+treeing-tennessee-brindle
+treeing-walker-coonhound
+valley-bulldog
+vizsla
+weimaraner
+welsh-springer-spaniel
+welsh-terrier
+west-highland-white-terrier
+westiepoo
+whippet 1
+whoodle
+wirehaired-pointing-griffon
+xoloitzuintli
+yorkipoo
+yorkshire-terrier 1
