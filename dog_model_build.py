@@ -12,7 +12,7 @@ import cv2
 
 do_cifar = False
 batch_size = 64
-epochs = 50  #100
+epochs = 2  #100
 data_augmentation = False
 save_dir = os.path.join(os.getcwd(), 'saved_models')
 model_name = 'keras_dogbreed_trained_model.h5'
@@ -23,24 +23,17 @@ def save_model(model, category_models):
     if not os.path.isdir(save_dir):
         os.makedirs(save_dir)
     # === Json save
-    json_model = model.to_json()
-    # save the model architecture to JSON file
-    with open(save_dir+'/saved_model.json', 'w') as json_file:
-        json_file.write(json_model)
-    # saving the weights of the model
-    model.save_weights(save_dir+'/saved_model_weights.json')
-    # Model loss and accuracy
-    #loss, acc = model.evaluate(test_images, test_labels, verbose=2)
+    if False:
+        json_model = model.to_json()
+        # save the model architecture to JSON file
+        with open(save_dir+'/saved_model.json', 'w') as json_file:
+            json_file.write(json_model)
+        # saving the weights of the model
+        model.save_weights(save_dir+'/saved_model_weights.json')
 
     model_path = os.path.join(save_dir, model_name)
     model.save(model_path)
     print('Saved trained model at %s ' % model_path)
-
-    #model.save('path_to_saved_model',                          save_format='tf')
-    #new_model = keras.models.load_model('path_to_my_model.h5')
-    # Check that the state is preserved
-    #new_predictions = new_model.predict(x_test)
-    #np.testing.assert_allclose(predictions, new_predictions, rtol=1e-6, atol=1e-6)
 
     # Note that the optimizer state is preserved as well:
     # you can resume training where you left off.
